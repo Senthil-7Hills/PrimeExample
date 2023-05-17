@@ -12,6 +12,5 @@ System.out.println("4th Random Number: " + Math.random());
 System.out.println("5th Random Number: " + Math.random());
 System.out.println("6th Random Number: " + Math.random());
 System.out.println("7th Random Number: " + Math.random());
-System.out.println("8th Random Number: " + Math.random());
 }
 }  

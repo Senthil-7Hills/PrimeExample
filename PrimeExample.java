@@ -1,7 +1,7 @@
 public class PrimeExample{  
  public static void main(String args[]){  
   int i,m=0,flag=0;  
-  int n=79;//it is the number to be checked  
+  int n=1179;//it is the number to be checked  
   m=n/2; 
   if(n==0||n==1){
    System.out.println(n+" is not prime number");    
@@ -18,5 +18,4 @@ public class PrimeExample{
 }  
 }
 
-// 192.168.100.127:8080//job/Helloworld/build?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9 //
 
